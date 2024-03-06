@@ -3,6 +3,7 @@
 
 * modified Project
 
+
 <div align= "center"> 
     <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;">  </h2>  
     <div style="font-weight: 700; font-size: 15px; text-align: center; color: #282d33;"> 햇병아리 개발자 오늘도 츄르값 버는중! </div> 
